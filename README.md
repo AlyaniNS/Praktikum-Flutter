@@ -1,5 +1,7 @@
-# Praktikum-Flutter
+# posttest2_alyani_2009106100
 
-Resource 
-1. Flutter API reference documentation : https://api.flutter.dev/index.html
-2. DigitalOcean community : https://www.digitalocean.com/community/tags/flutter
+Post Test 2 : Layout
+
+## Deskripsi
+
+Membuat landing page ticketing bioskop sederhana menggunakan container
